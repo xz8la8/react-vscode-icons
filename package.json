@@ -1,6 +1,6 @@
 {
   "name": "react-vscode-icons",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
@@ -15,6 +15,9 @@
     "lodash": "^4.17.15",
     "mkdirp": "^1.0.3",
     "rimraf": "^3.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0"
   },
   "files": [
     "es"
