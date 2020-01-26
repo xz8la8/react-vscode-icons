@@ -1,6 +1,6 @@
 {
   "name": "react-vscode-icons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
