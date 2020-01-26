@@ -3,7 +3,10 @@
 # Usage
 
 ```jsx
-import Add from 'react-vscode-icons/icons';
+import React from 'react';
+import Add from 'react-vscode-icons/es/Add';
 
-<Add />
+export default () => {
+  return <Add />
+}
 ``` 
