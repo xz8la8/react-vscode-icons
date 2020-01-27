@@ -1,9 +1,10 @@
 {
   "name": "react-vscode-icons",
   "version": "1.0.5",
+  "keywords": ["vscode-icons", "react"],
   "scripts": {
     "dev": "umi dev",
-    "build": "umi build",
+    "build": "node ./scripts/build",
     "deploy": "now deploy ./demo/dist --name react-vscode-icons --prod"
   },
   "devDependencies": {
