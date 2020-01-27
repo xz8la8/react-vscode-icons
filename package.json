@@ -1,7 +1,10 @@
 {
   "name": "react-vscode-icons",
-  "version": "1.0.5",
-  "keywords": ["vscode-icons", "react"],
+  "version": "1.0.6",
+  "keywords": [
+    "vscode-icons",
+    "react"
+  ],
   "scripts": {
     "dev": "umi dev",
     "build": "node ./scripts/build",
@@ -23,5 +26,10 @@
   "files": [
     "es"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kakuyogy/react-vscode-icons"
+  },
+  "homepage": "https://react-vscode-icons.now.sh/"
 }
